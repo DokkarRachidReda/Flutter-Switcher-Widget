@@ -3,7 +3,7 @@
    <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
 </a>
 
-Switcher Widget inspired from [Nikolay Kuchkarov](https://dribbble.com/shots/3368130-Stepper-Touch).
+Switcher Widget inspired from [Oleg Frolov](https://dribbble.com/shots/6041286-Switcher-LI).
 
 ## Gif 
 
