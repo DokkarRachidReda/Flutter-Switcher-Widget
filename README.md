@@ -1,16 +1,16 @@
 # switcher_li
+<a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
+   <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
+</a>
 
-A new Flutter project.
+Switcher Widget inspired from [Nikolay Kuchkarov](https://dribbble.com/shots/3368130-Stepper-Touch).
 
-## Getting Started
+## Gif 
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/DokkarRachidReda/Flutter-Switcher-Widget/blob/master/switcher.gif" width="300"/>
 
-A few resources to get you started if this is your first Flutter project:
+## How to use it ? 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+inside the ``` lib ``` folder you will find switcher_li.dart , it's the source of the widget 
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+##
